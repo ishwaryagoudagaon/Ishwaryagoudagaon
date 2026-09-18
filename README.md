@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm Ishwarya Goudagaon
 
-<!--
-**ishwaryagoudagaon/Ishwaryagoudagaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | 🚗 Automotive Technology Professional
 
-Here are some ideas to get you started:
+I combine data analytics with 9+ years of automotive testing experience
+to explore business problems and create practical insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+### 📈 Data Analytics & Visualization
+- 🐍 Python
+- 🧮 SQL / MySQL
+- 🐼 Pandas & NumPy
+- 📊 Tableau
+- 📉 Excel
+- ☁️ Google BigQuery
+- 🔎 Looker Studio
+
+### 🚗 Automotive Technology
+- 🧪 Automotive Software Testing
+- 🔧 CANoe & CANalyzer
+- 💻 CAPL & Perl
+- 🚘 CAN, UDS, OBD & FlexRay
+- ✅ ISO 26262 & ASPICE
+- ⚙️ HIL Testing
+
+## 🚀 Featured Projects
+
+### 📊 Eniac × Magist Partnership Analysis
+**Tools:** 🧮 MySQL / SQL • 📊 Tableau
+
+### 💰 Eniac Discount Strategy Analysis
+**Tools:** 🐍 Python • 🐼 Pandas • 📓 Jupyter
+
+### 🌍 GoExplore Market Expansion Analysis
+**Tools:** ☁️ BigQuery • 📊 Looker Studio
