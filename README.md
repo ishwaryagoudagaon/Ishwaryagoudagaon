@@ -26,7 +26,7 @@ to explore business problems and create practical insights.
 
 ## 🚀 Featured Projects
 
-### 📊 Eniac × Magist Partnership Analysis
+### 📊 Business-Analytics-Case-Studies-ENIAC-Magist
 **Tools:** 🧮 MySQL / SQL • 📊 Tableau
 
 ### 💰 Eniac Discount Strategy Analysis
